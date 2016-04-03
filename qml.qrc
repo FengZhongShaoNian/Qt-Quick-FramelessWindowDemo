@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>xqml/xbutton.qml</file>
+        <file>resources/buttonImage/close_disable.png</file>
+        <file>resources/buttonImage/close_down.png</file>
+        <file>resources/buttonImage/close_hover.png</file>
+        <file>resources/buttonImage/close_normal.png</file>
+        <file>resources/buttonImage/menu_down.png</file>
+        <file>resources/buttonImage/menu_hover.png</file>
+        <file>resources/buttonImage/menu_normal.png</file>
+        <file>resources/buttonImage/min_down.png</file>
+        <file>resources/buttonImage/min_hover.png</file>
+        <file>resources/buttonImage/min_normal.png</file>
+    </qresource>
+</RCC>
